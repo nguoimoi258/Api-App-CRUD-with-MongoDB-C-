@@ -5,3 +5,7 @@
 https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-1-basics-g4frivcvz
 http://www.dotnetcurry.com/aspnet-mvc/1267/using-mongodb-nosql-database-with-aspnet-webapi-core
 https://docs.mongodb.com/stitch/mongodb/actions/collection.deleteOne/
+
+- Run: 
+  - Use cmd: run server MongoDb
+  - Start project with Microsoft visual studio
